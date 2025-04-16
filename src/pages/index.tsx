@@ -1,5 +1,5 @@
-import { Base } from '../templates/Base';
+import { AiNav } from '../templates/AiNav';
 
-const Index = () => <Base />;
+const Index = () => <AiNav />;
 
 export default Index;
